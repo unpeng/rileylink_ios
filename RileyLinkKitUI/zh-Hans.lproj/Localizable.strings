@@ -46,3 +46,109 @@
 /* The title of the cell showing uptime */
 "Uptime" = "Uptime";
 
+/* RSSI值的单位格式字符串，单位为分贝 */
+"%@ dB" = "%@ 分贝";
+
+/* 值的单位格式字符串，单位为百分比 */
+"%@%%" = "%@%%";
+
+/* 警报部分的标题 */
+"Alert" = "警报";
+
+/* 指示LED模式为自动 */
+"Auto" = "自动";
+
+/* 显示电池电量的单元格的标题 */
+"Battery level" = "电池电量";
+
+/* 描述命令的部分的标题 */
+"Commands" = "命令";
+
+/* 连接状态 */
+"Connected" = "已连接";
+
+/* 正在连接状态 */
+"Connecting" = "连接中";
+
+/* 连接LED的单元格的标题 */
+"Connection LED" = "连接LED";
+
+/* 描述连接监视的部分的标题 */
+"Connection Monitoring" = "连接监视";
+
+/* 显示BLE连接状态的单元格的标题 */
+"Connection State" = "连接状态";
+
+/* 连接振动的单元格的标题 */
+"Connection Vibration" = "连接振动";
+
+/* 描述设备的部分的标题 */
+"Device" = "设备";
+
+/* RileyLink设置中设备表格部分的标题 */
+"Devices" = "设备";
+
+/* 断开连接状态 */
+"Disconnected" = "已断开连接";
+
+/* 正在断开连接状态 */
+"Disconnecting" = "断开连接中";
+
+/* 用于发出设备寻找声响的单元格的标题 */
+"Find Device" = "寻找设备";
+
+/* 显示固件版本的单元格的标题 */
+"Firmware" = "固件";
+
+/* 显示当前RileyLink频率的单元格的标题 */
+"Frequency" = "频率";
+
+/* 获取RileyLink统计信息的命令标题 */
+"Get RileyLink Statistics" = "获取RileyLink统计信息";
+
+/* 获取统计信息的进度消息 */
+"Get Statistics…" = "获取统计信息…";
+
+/* 亮红色LED的单元格的标题 */
+"Lighten Red LED" = "红色LED灯亮起";
+
+/* 亮黄色LED的单元格的标题 */
+"Lighten Yellow LED" = "黄色LED灯亮起";
+
+/* 显示电池低电量警报的单元格的标题 */
+"Low Battery Alert" = "低电量警报";
+
+/* 显示设备名称的单元格的标题 */
+"Name" = "名称";
+
+/* 关闭电池警报时的详细信息文本
+指示LED模式已关闭 */
+"Off" = "关闭";
+
+/* 指示LED模式已开启 */
+"On" = "开启";
+
+/* RileyLink设置描述 */
+"RileyLink允许通过蓝牙低功耗与泵进行通信。" = "RileyLink允许通过蓝牙低功耗与泵进行通信。";
+
+/* 显示BLE信号强度（RSSI）的单元格的标题 */
+"Signal Strength" = "信号强度";
+
+/* The title of the section for orangelink commands
+The title of the section for rileylink commands */
+"Test Commands" = "测试命令";
+
+/* The title of the cell showing Test Vibration */
+"Test Vibration" = "震动测试";
+
+/* The title of the command to update diagnostic LEDs */
+"Toggle Diagnostic LEDs" = "切换诊断 LED";
+
+/* Progress message for changing diagnostic LED mode */
+"Updating diagnostic LEDs mode" = "正在更新诊断 LED 模式";
+
+/* The title of the cell showing uptime */
+"Uptime" = "运行时间";
+
+/* The title of the cell showing ORL */
+"Voltage" = "电压";
